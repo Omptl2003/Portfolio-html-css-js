@@ -308,6 +308,10 @@ section {
     margin: auto 0;
 }
 
+.about-icon {
+    cursor: default;
+}
+
 /* EXPERIENCE SECTION */
 
 #experience {
